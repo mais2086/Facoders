@@ -19,3 +19,8 @@ Creating Markdown File
 
 Introduction to Python: If statement, While loop
 
+* __Week -5:__
+
+ Lists and for loop
+
+
