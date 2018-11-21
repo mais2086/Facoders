@@ -23,4 +23,7 @@ Introduction to Python: If statement, While loop
 
  Lists and for loop
 
+* __Week -6:__
+
+Dictionaries, user defined functions and type of Errors
 
